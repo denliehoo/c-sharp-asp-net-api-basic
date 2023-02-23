@@ -1,0 +1,12 @@
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Denli\Desktop\CodeGod\C#\React .NET\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll

@@ -1,0 +1,3 @@
+# these 2 folder is automatically created upon doing dotnet run
+/API/bin
+/API/obj
